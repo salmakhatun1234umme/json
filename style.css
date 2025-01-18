@@ -1,0 +1,15 @@
+
+#userContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.user-card{
+width: 350px;
+background-color: antiquewhite;
+padding: 20px;
+border-radius: 20px;
+}
+.user-card img{
+    width: 350px;
+}

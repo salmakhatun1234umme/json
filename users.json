@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Salma Khatun",
+        "age":24,
+        "profession": "Web Develooper",
+        "email": "salma@gmail.com",
+        "image":"https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+        "name":"Aysha Khatun",
+        "age":41,
+        "profession": "Graphic Designer",
+        "email": "aysha@gmail.com",
+        "image":"https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "name":"Sadhona Khatun",
+        "age":23,
+        "profession": "Degital Marketer",
+        "email": "sadhona@gmail.com",
+        "image":"https://randomuser.me/api/portraits/women/3.jpg"
+    }
+]
